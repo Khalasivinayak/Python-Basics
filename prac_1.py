@@ -52,4 +52,3 @@ print("count space is ",count_space)
 #Remove all of the vowels in a string (use string above)
 onlyapha=[x for x in string if x!='a' if x!='e' if  x!='i'  if x!='o' if x!='u' in string]
 print("only alphabasic",onlyapha)
-#Find all of the words in a string that are less than 5 letters (use string above)
